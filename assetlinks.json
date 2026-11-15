@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.yt7group.journal",
+        "sha256_cert_fingerprints": ["C7:4C:C2:DC:C2:1D:15:2C:E2:20:45:43:33:71:E3:04:2A:6D:75:0C:BE:20:FE:94:ED:1C:69:66:1D:A1:FF:35"]
+      }
+    }]
